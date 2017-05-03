@@ -1,6 +1,6 @@
-# dingding
+# T-Movie
 
-> this is a dingding project
+> this is a vue project
 
 ## Build Setup
 
